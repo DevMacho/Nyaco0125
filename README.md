@@ -16,8 +16,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nyaco0125&show_icons=true&locale=en&layout=compact" alt="nyaco0125" /></p>
 <br/>
-
+<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyaco0125&show_icons=true&locale=en" alt="nyaco0125" /></p>
+<hr/>
 
 ### 초보 14살 입문자에요! 잘 부탁드려요!😉
 
