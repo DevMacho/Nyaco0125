@@ -9,9 +9,14 @@
     - 개발자 / 운영자
   
 ### 제가 할 수 있는 것들은! 👌
-- Python
-- HTML.CSS.JS
-- PHP
+- Front-End
+  - HTML.CSS.JS
+  - React JS
+  - Tailwind CSS, SCSS
+- Back-End
+  - Python, Django
+  - Node.JS
+  - PHP
 
 ### 포트폴리오!
 - [냐코의 포트폴리오 바로가기](http://devnyaco.dothome.co.kr/)
