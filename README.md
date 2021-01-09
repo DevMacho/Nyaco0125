@@ -14,7 +14,7 @@
   - React JS
   - Tailwind CSS, SCSS
 - Back-End
-  - Python, Django
+  - Python(Django, Flask)
   - Node.JS
   - PHP
 
