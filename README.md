@@ -3,9 +3,9 @@
 ### 제가 하고 있는 일들은! 💻
   - 닮은 팝스타 찾기(https://findpopstar.tk/)
     - 개발자 / 운영자
-  - 학교시간알리미(https://sunaeclass.tk/)
+  - 학교시간알리미(https://school-time-notification.vercel.app/)
     - 개발자 / 운영자
-  - 학교일정알리미
+  - 학교일정알리미(https://school-notifier-frontend.vercel.app/)
     - 개발자 / 운영자
   - Unique Bots
     - 프론트엔드 개발자
