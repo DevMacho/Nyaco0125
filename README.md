@@ -5,21 +5,16 @@
     - 개발자 / 운영자
   - 학교시간알리미(https://sunaeclass.tk/)
     - 개발자 / 운영자
+  - 학교일정알리미
+    - 개발자 / 운영자
   - Unique Bots
     - 프론트엔드 개발자
   
 ### 제가 할 수 있는 것들은! 👌
 - Front-End
   - HTML.CSS.JS
-  - React JS
-  - Tailwind CSS, SCSS
 - Back-End
   - Node.JS
-  - PHP
-- etc
-  - C#
-  - Python
-  - JS
 
 ### 포트폴리오!
 - [냐코의 포트폴리오 바로가기](https://portfolio.nyaco0125.vercel.app/)
