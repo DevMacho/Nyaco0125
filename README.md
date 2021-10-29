@@ -1,4 +1,4 @@
-## 안뇽하세여! 👋 저는 14살 잼민이 개발자 냐코입니다!!
+## 안녕하세요! JS 개발자 마쵸입니다!! 👋
 
 ### 제가 하고 있는 일들은! 💻
   - 닮은 팝스타 찾기(https://findpopstar.tk/)
@@ -15,7 +15,7 @@
   - HTML.CSS.JS
 - Back-End
   - Node.JS
-- ETC
+- Etc.
   - Discord.js
 
 ### 포트폴리오!
@@ -28,7 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nyaco0125&show_icons=true&locale=en" alt="nyaco0125" /></p>
 <hr/>
 
-### 초보 14살 입문자에요! 잘 부탁드려요!😉
-### ++ 1일 1커밋 하려고 노력하고 있어요!
+### 중학생입니다! 주로 Discord.js를 활용해 챗봇을 만들고 있어요!😉
 
 
