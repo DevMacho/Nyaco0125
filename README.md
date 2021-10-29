@@ -15,6 +15,8 @@
   - HTML.CSS.JS
 - Back-End
   - Node.JS
+- ETC
+  - Discord.js
 
 ### 포트폴리오!
 - [냐코의 포트폴리오 바로가기](https://portfolio.nyaco0125.vercel.app/)
