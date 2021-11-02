@@ -1,6 +1,8 @@
 ## 안녕하세요! JS 개발자 마쵸입니다!! 👋
 
 ### 제가 하고 있는 일들은! 💻
+  - 딜라이트 스튜디오
+    - 대표
   - 닮은 팝스타 찾기(https://findpopstar.tk/)
     - 개발자 / 운영자
   - 학교시간알리미(https://school-time-notification.vercel.app/)
